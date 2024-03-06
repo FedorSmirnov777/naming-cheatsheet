@@ -21,7 +21,7 @@
 
 ---
 
-Naming things is hard. This sheet attempts to make it easier.Change1
+Naming things is hard. This sheet attempts to make it easier.Change2
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
